@@ -1,7 +1,7 @@
 # Py\_Play
 
 
-[automate the boring stuff](automatetheboringstuff.com)
+[automate the boring stuff](https://automatetheboringstuff.com/) 
 
 
 
