@@ -8,6 +8,4 @@ I will be extensively using this:
 
 [invent with python](https://inventwithpython.com/):
 
-
-
-[big book of small python projects] (https://inventwithpython.com/bigbookpython/)
+[big book of small python projects](https://inventwithpython.com/bigbookpython/)
