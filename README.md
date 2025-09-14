@@ -6,6 +6,6 @@ I will be extensively using this:
 
 [automate the boring stuff](https://automatetheboringstuff.com/) 
 
-[invent with python](https://inventwithpython.com/) 
+[invent with python](https://inventwithpython.com/):
 
 
