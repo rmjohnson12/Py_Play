@@ -1,6 +1,6 @@
-# Py\_Play
+# Py_Play
 
-Description of this repository: This repository will hold my python musings so the work in here isn't directly related to any of what I'm learning at Wake Tech.
+This repository will hold my python musings so the work in here isn't directly related to any of what I'm learning at Wake Tech.
 
 I will be extensively using:
 
